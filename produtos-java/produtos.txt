@@ -1,0 +1,4 @@
+1;Teclado;120.50
+2;Mouse;65.90
+3;Monitor;899.99
+4;Headset;150.00
